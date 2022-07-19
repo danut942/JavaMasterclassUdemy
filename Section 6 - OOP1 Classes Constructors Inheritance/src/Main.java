@@ -80,22 +80,22 @@ public class Main {
 
         // Wall class
         Wall wall0 = new Wall();
-        wall0.getArea();
+        System.out.println("Wall 0 getArea: " + wall0.getArea());
         wall0.setHeight(3.23);
         wall0.setWidth(-2.1);
         wall0.getHeight();
         wall0.getWidth();
-        wall0.getArea();
+        System.out.println("Wall 0 getArea: " + wall0.getArea());
 
         wall0.setWidth(3);
-        wall0.getArea();
+        System.out.println("Wall 0 getArea: " + wall0.getArea());
 
-        Wall wall1 = new Wall(5.33,-2.22);
+        Wall wall1 = new Wall(5.33, -2.22);
         wall1.getWidth();
         wall1.getHeight();
-        wall1.getArea();
+        System.out.println("Wall 1 getArea: " + wall1.getArea());
 
-        Wall wall2 = new Wall(5.3,5.1);
-        wall2.getArea();
+        Wall wall2 = new Wall(5.3, 5.1);
+        System.out.println("Wall 2 getArea: " + wall2.getArea());
     }
 }

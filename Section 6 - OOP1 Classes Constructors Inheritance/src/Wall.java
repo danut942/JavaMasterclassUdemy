@@ -8,9 +8,19 @@ public class Wall {
     }
 
     public Wall(double width, double height) {
-        System.out.println("Constructor with param is called");
-        this.width = width;
-        this.height = height;
+//        this.width = 3;
+//        this.height = -2;
+
+        if(width < 0){
+            this.width = 0;
+        } else {
+            this.width = width;
+        }
+        if(height < 0){
+            this.height = 0;
+        } else {
+            this.height = height;
+        }
     }
 
     public double getWidth() {

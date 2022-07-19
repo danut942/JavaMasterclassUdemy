@@ -4,11 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP1/Inheritance.iml" filepath="$PROJECT_DIR$/OOP1/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6 - OOP1/Inheritance.iml" filepath="$PROJECT_DIR$/Section 6 - OOP1/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" filepath="$PROJECT_DIR$/InheritanceDemo/InheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMasterclassUdemy.iml" filepath="$PROJECT_DIR$/JavaMasterclassUdemy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6 - OOP1/Section 6 - OOP1 - Classes Constructors Inheritance.iml" filepath="$PROJECT_DIR$/Section 6 - OOP1/Section 6 - OOP1 - Classes Constructors Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 6 - OOP1 Classes Constructors Inheritance/Section 6 - OOP1 Classes Constructors Inheritance.iml" filepath="$PROJECT_DIR$/Section 6 - OOP1 Classes Constructors Inheritance/Section 6 - OOP1 Classes Constructors Inheritance.iml" />
     </modules>
   </component>
 </project>
