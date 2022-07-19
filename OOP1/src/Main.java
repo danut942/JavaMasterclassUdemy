@@ -77,5 +77,25 @@ public class Main {
 //        VipCustomer person3 = new VipCustomer("tim",100.00,"test@test.test");
 //        System.out.println(person3.getName());
 //        System.out.println(person3.getEmailAddress());
+
+        // Wall class
+        Wall wall0 = new Wall();
+        wall0.getArea();
+        wall0.setHeight(3.23);
+        wall0.setWidth(-2.1);
+        wall0.getHeight();
+        wall0.getWidth();
+        wall0.getArea();
+
+        wall0.setWidth(3);
+        wall0.getArea();
+
+        Wall wall1 = new Wall(5.33,-2.22);
+        wall1.getWidth();
+        wall1.getHeight();
+        wall1.getArea();
+
+        Wall wall2 = new Wall(5.3,5.1);
+        wall2.getArea();
     }
 }
